@@ -1,0 +1,23 @@
+.features {
+  background: #353d40;
+  background: #353d40
+    url("../image/background-content.jpg");
+  border-bottom: solid 1px #272e31;
+  padding: 45px 0px 45px 0px;
+  text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
+  color: #a0a8ab;
+}
+
+.features h2 {
+  font-size: 1.25em;
+  color: #fff;
+  margin: 0 0 0.25em 0;
+}
+
+.features a {
+  color: #e0e8eb;
+}
+
+.features strong {
+  color: #fff;
+}
