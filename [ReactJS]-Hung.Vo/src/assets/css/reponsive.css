@@ -828,7 +828,7 @@ Sét kích thức hiển thị menu khi repnsive
     width: 275px;
     z-index: 10002;
     background: #3b4346;
-    background: url("../image/background-menu-reponsive.jpg");
+    background: url("./../../components/header/image/background-menu-reponsive.jpg");
   }
   .navPanel .link {
     display: block;
