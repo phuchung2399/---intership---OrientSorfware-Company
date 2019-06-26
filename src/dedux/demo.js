@@ -1,6 +1,23 @@
+// ---------------------------------------------------------------------------------------------------------------------------------
 // - store: kho chứa các state, khi component nào cần sẽ lấy ra
 //     + Dispatcher: Gọi đến function dispatcher để gửi action cho reducer
 //     + Reducer: phân tích action => ra cho store các state mới | có 'type: phân biệt hành động' | Mỗi action sẽ có một Reducer
+// ---------------------------------------------------------------------------------------------------------------------------------
+// componentWillMoun: chạy trước khi rerder, dùng để gọi một cái gì đó trước khi rendor chạy // chỉ dc gọi 1 lần
+// componentDidMount: chạy sau khi rerder, dùng fetch data
+//
+// mapStateToProps: lấy phần state yêu cầu của component chuyển thành props của component đó
+// mapDispatchToProps: dispatch một action gọi lên trên store để reducer sử lý phần action
+/*
+    onChange = (e) => {
+        var target = e.target;
+        var name = target.name; // lay name cua cac input
+        var value = target.type === 'checkbox' ? target.checked : target.value; // lay gia tri cua tung o input
+        this.setState({
+            [name]: value // luu dc input
+        });
+    }
+*/
 import { createStore } from 'redux'
 
 var data = {
