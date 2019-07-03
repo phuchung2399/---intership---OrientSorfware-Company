@@ -1,0 +1,12 @@
+.logoMenu {
+  width: 70%;
+  height: auto;
+}
+
+@media screen and (max-width: 770px) {
+  .logoMenu {
+    width: 40%;
+    height: auto;
+    transform: translate(75%, -10%);
+  }
+}
