@@ -1,0 +1,14 @@
+D:\PROJECT\API\API-DEMO\API-DEMO\bin\Debug\netcoreapp2.1\APIDEMO.deps.json
+D:\PROJECT\API\API-DEMO\API-DEMO\bin\Debug\netcoreapp2.1\APIDEMO.runtimeconfig.json
+D:\PROJECT\API\API-DEMO\API-DEMO\bin\Debug\netcoreapp2.1\APIDEMO.runtimeconfig.dev.json
+D:\PROJECT\API\API-DEMO\API-DEMO\bin\Debug\netcoreapp2.1\APIDEMO.dll
+D:\PROJECT\API\API-DEMO\API-DEMO\bin\Debug\netcoreapp2.1\APIDEMO.pdb
+D:\PROJECT\API\API-DEMO\API-DEMO\obj\Debug\netcoreapp2.1\APIDEMO.csprojAssemblyReference.cache
+D:\PROJECT\API\API-DEMO\API-DEMO\obj\Debug\netcoreapp2.1\APIDEMO.csproj.CoreCompileInputs.cache
+D:\PROJECT\API\API-DEMO\API-DEMO\obj\Debug\netcoreapp2.1\APIDEMO.RazorAssemblyInfo.cache
+D:\PROJECT\API\API-DEMO\API-DEMO\obj\Debug\netcoreapp2.1\APIDEMO.RazorAssemblyInfo.cs
+D:\PROJECT\API\API-DEMO\API-DEMO\obj\Debug\netcoreapp2.1\APIDEMO.AssemblyInfoInputs.cache
+D:\PROJECT\API\API-DEMO\API-DEMO\obj\Debug\netcoreapp2.1\APIDEMO.AssemblyInfo.cs
+D:\PROJECT\API\API-DEMO\API-DEMO\obj\Debug\netcoreapp2.1\APIDEMO.RazorTargetAssemblyInfo.cache
+D:\PROJECT\API\API-DEMO\API-DEMO\obj\Debug\netcoreapp2.1\APIDEMO.dll
+D:\PROJECT\API\API-DEMO\API-DEMO\obj\Debug\netcoreapp2.1\APIDEMO.pdb
